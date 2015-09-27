@@ -43,3 +43,4 @@ function doConversion(inputPath) {
 }
 
 doConversion("lib/jsdom/living/generated/events").done();
+doConversion("lib/jsdom/living/generated/attributes").done();
